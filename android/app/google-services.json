@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480188325405",
+    "project_id": "flutter-fan-ta93abe",
+    "storage_bucket": "flutter-fan-ta93abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480188325405:android:db8b5532371427b9ba30f4",
+        "android_client_info": {
+          "package_name": "com.ta93abe.flutter_fan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480188325405-m71u83kdd5ur2i159j3jjod1dl3qo9pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xHSXa1e2kBInQadi_yVu2_gT6epnGgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480188325405-m71u83kdd5ur2i159j3jjod1dl3qo9pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

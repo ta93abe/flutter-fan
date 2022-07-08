@@ -1,6 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fan/firebase_options.dart';
+import 'package:flutter_fan/utils/theme/dark.dart';
+import 'package:flutter_fan/utils/theme/light.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,6 +20,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Fan',
       debugShowCheckedModeBanner: false,
+      theme: lightTheme,
+      darkTheme: darkTheme,
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter Fan'),
